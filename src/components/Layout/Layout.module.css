@@ -1,5 +1,4 @@
 
-
 .main {
     @apply border-t border-ui4 lg:relative lg:mb-28 lg:ml-112 lg:border-t-0 xl:ml-120 min-h-[200px] lg:min-h-[calc(100vh_-_200px)] flex scrollbar-hidden;
   }
